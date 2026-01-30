@@ -50,13 +50,6 @@ Honeypot dikonfigurasi untuk menerima password lemah (contoh: `root`/`password`)
 ### Dampak DoS Attack
 Serangan SYN Flood menggunakan Hping3 menyebabkan lonjakan penggunaan CPU hingga **97%** pada proses `ksoftirqd` (Software Interrupts), membuktikan serangan berhasil membebani kernel meskipun aplikasi Honeypot mengalami *lag*.
 
-## 📸 Dokumentasi / Bukti
-
-*(Simpan screenshot kamu di folder bernama 'images' dan link di sini)*
-
-| Log Brute Force | CPU Usage saat DoS |
-| :---: | :---: |
-| ![Log Bukti](images/log-bruteforce.png) | ![CPU Load](images/cpu-dos.jpg) |
 
 ## 🚀 Cara Menjalankan (Replikasi)
 

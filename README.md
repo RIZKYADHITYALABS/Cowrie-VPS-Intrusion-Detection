@@ -77,9 +77,9 @@ Serangan SYN Flood menggunakan Hping3 menyebabkan lonjakan penggunaan CPU hingga
     ```
 
 ## 👥 Kredit
-* **Nama:** [Nama Kamu]
-* **NIM:** [NIM Kamu]
-* **Mata Kuliah:** Keamanan Jaringan
+* **Nama:** RIZKY ADHITYA
+* **NIM:** 105841114123
+* **Mata Kuliah:** Advance Network Security
 
 ---
 *Dibuat untuk memenuhi Tugas Besar Semester Ganjil 2026.*
